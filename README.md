@@ -1,6 +1,9 @@
-# CPE-310-2526A
+**CPE-310-2526A**
 
-**Student Engr. Sabadlab**
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/ac9419dc-c268-40d3-8bac-2b9138e3ca13" /> <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/6168fa0c-3288-49ea-8dfd-2e3fa05a804a" /> <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/9b011acd-4873-4b89-b00f-87a867f214ad" />
+
+
+
 
 **About Me**
 
@@ -11,4 +14,3 @@ Erica Mae B. Sabadlab is currently a second year student at Technological Instit
 *"To be successful in life you should learn, be competent, and be honest."*
 
 
-<img width="1200" height="676" alt="image" src="https://github.com/user-attachments/assets/ab2b9a7f-d7be-420b-9462-fe9848f3a631" />
